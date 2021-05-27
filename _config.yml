@@ -68,3 +68,4 @@ exclude:
   - docker-compose.dev.yml
   - Dockerfile
   - default.conf
+  - CNAME
